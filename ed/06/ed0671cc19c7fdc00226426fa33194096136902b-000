@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e7def-3c08-7702-bee2-b5f767f07409",
+  "sessionId": "019e7def-3c08-7702-bee2-b5f767f07409",
+  "provider": "codex",
+  "title": "Audit lecture seule dans /Users/zenray/Create/Build/Productions/GithubProductions/ZenRayProgress. Analyse l'intégration media/Eagle-like déj",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-11-019e7def-3c08-7702-bee2-b5f767f07409.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/31/rollout-2026-05-31T14-08-11-019e7def-3c08-7702-bee2-b5f767f07409.jsonl",
+      "relativePath": "conversations/codex/60a00e5fc24fdbea/f6893ad0beb63734.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-31T12:14:04.214Z",
+  "stagedAt": "2026-10-04T09:24:06.068Z"
+}
