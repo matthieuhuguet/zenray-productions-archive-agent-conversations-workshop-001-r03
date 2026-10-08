@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a05250-555a-75b2-aebb-b8f88dfb4f41",
+  "sessionId": "01a05250-555a-75b2-aebb-b8f88dfb4f41",
+  "provider": "codex",
+  "title": "Objectif : que toute modification soit typographiquement indiscernable du reste du document dans la cadre de la rédaction de ce document pro",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/08/30/rollout-2026-08-30T19-56-31-01a05250-555a-75b2-aebb-b8f88dfb4f41.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/08/30/rollout-2026-08-30T19-56-31-01a05250-555a-75b2-aebb-b8f88dfb4f41.jsonl",
+      "relativePath": "conversations/codex/5618dcf3131dd990/d4b04209366b8e3e.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-08-30T15:05:04.818Z",
+  "stagedAt": "2026-10-04T08:32:51.561Z"
+}
