@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:01a09589-6cda-7153-9907-b0c62babdc31",
+  "sessionId": "01a09589-6cda-7153-9907-b0c62babdc31",
+  "provider": "codex",
+  "title": "A date est ce que Copernicus est meilleur que substance designer ou pas forcément ... ? Réponds simplement forces et faiblesses. soit object",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/09/12/rollout-2026-09-12T14-13-26-01a09589-6cda-7153-9907-b0c62babdc31.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/09/12/rollout-2026-09-12T14-13-26-01a09589-6cda-7153-9907-b0c62babdc31.jsonl",
+      "relativePath": "conversations/codex/5e83f151e36f2e9a/0c2983b32d18a33a.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-12T12:16:34.495Z",
+  "stagedAt": "2026-10-04T08:19:35.985Z"
+}
